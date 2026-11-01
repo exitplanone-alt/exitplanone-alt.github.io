@@ -55,4 +55,4 @@ If this policy changes, the new version will be posted on this page with a new e
 
 ## Contact
 
-Questions or complaints: [exitplanone@gmail.com]
+Questions or complaints: exitplanone@gmail.com
