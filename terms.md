@@ -9,4 +9,4 @@ Effective date: 1 November 2026
 5. You can stop using the app at any time by removing its access on the [Google security settings page](https://security.google.com/settings/security/permissions).
 6. These terms may change. The new version will be posted on this page.
 
-Contact: [exitplanone@gmail.com]
+Contact: exitplanone@gmail.com
