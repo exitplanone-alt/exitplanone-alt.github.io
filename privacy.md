@@ -22,7 +22,7 @@ The app never asks for or stores your Google password.
 
 ## How the information is used
 
-The information is used only to run the connected channels: to upload approved Shorts, measure how they perform, and choose what to make next. It is not used for advertising, profiling or any other purpose.
+The information is used only to run the connected channels: to upload Shorts after automatic quality, fact and policy checks (the owner can pause or stop uploads at any time), measure how they perform, and choose what to make next. It is not used for advertising, profiling or any other purpose.
 
 ## Where it is stored and for how long
 
